@@ -1,4 +1,5 @@
 - Install projcet step by step
+0. cp .env.example .env
 1. composer install
 2. php artisan key:generate
 3. php artisan migrate
